@@ -13,6 +13,24 @@ and helpful for your ``daily work``.
 
 =======================================================================
 
+.. caution:: 
+   openBIS will make you efficient and prodictive.
+   Invest in your education and receive benefits 
+   in terms of good job opportunities
+
+
+.. tip:: 
+   Use openBIS to manage and analyze your data
+
+.. danger:: 
+   openBIS makes you smarter!
+
+.. note:: 
+   Ask SIS to help you with openBIS
+      * ``call`` 
+      * write
+      * meet
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
