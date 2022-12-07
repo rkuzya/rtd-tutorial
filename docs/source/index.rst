@@ -1,6 +1,3 @@
-Welcome to Lumache's documentation!
-===================================
-
 Welcome to QUICK START with openBIS!
 ============================================
 **Hello world**
