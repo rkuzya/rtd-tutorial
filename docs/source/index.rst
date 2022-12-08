@@ -40,7 +40,5 @@ Contents
 
 .. toctree::
 
-   justlogic
-   justcode
-   justhardware
-   hardwareandcode
+   test1
+   test2
