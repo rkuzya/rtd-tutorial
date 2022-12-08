@@ -42,3 +42,13 @@ Contents
 
    usage
    api
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Options:
+
+   Options/justlogic
+   Options/justcode
+   Options/justhardware
+   Options/hardwareandcode
