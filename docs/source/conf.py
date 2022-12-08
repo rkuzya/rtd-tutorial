@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'OpenBIS Quick Start'
+copyright = '2022, Kuzyakiv'
+author = 'Kuzyakiv'
 
 release = '0.1'
 version = '0.1.0'
