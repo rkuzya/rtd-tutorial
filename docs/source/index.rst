@@ -39,8 +39,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
 
    justlogic
    justcode
