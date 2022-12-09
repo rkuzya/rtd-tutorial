@@ -10,6 +10,9 @@ and helpful for your ``daily work``.
 
 =======================================================================
 
+.. image:: /images/openBIS_logo.png
+
+
 .. caution:: 
    openBIS will make you efficient and prodictive.
    Invest in your education and receive benefits 
