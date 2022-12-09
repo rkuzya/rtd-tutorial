@@ -1,2 +1,2 @@
-Usage
-=====
+openBIS general information
+===========================
