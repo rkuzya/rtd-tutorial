@@ -43,3 +43,4 @@ Contents
 
    usage
    api
+   openbis_intro
