@@ -24,7 +24,9 @@ To represent a scientific study or project, openBIS uses the following meta data
 
 •	Data Set is a folder where the result/s of the measurement/analysis/modeling of the experimental measurements or analysis are stored. Data sets can be attached to Experiments/Collections or Samples/Objects.
 
+
 .. image:: /images/openbis-data-structure.png
+
 
 Use Cases - Stories
 -------------------
