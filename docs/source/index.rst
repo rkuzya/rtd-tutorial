@@ -52,7 +52,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: GETTING STARTED:
+   :caption: GETTING_STARTED:
 
-   GETTING STARTED/Installation
-   GETTING STARTED/Quick Start
+   GETTING_STARTED/Installation
+   GETTING_STARTED/QuickStart
