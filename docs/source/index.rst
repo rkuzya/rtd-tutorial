@@ -12,7 +12,7 @@ and helpful for your ``daily work``.
 
 .. image:: /images/openBIS_logo.png
 
-CONNECTION TEST
+CONNECTION TEST NUMBER 2
 
 .. caution:: 
    openBIS will make you efficient and prodictive.
