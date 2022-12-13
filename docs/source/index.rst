@@ -54,5 +54,5 @@ Contents
    :hidden:
    :caption: GETTING STARTED:
 
-   GETTING STARTED/installation
+   GETTING STARTED/Installation
    GETTING STARTED/Quick Start
