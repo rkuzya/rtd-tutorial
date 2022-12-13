@@ -8,11 +8,12 @@ openBIS is an open Information System designed to facilitate robust data managem
 It allows tracking, annotating, archiving, and sharing of data in various scientific disciplines.  
 
 The openBIS platform has three primary functionalities:
-1.	Inventory management, to register samples/extractions/simulations, materials, protocols, equipment.
-2.	Laboratory notebook, to document scientific projects and experiments.
-3.	Data management, to store all data related to the scientific projects and experiments (raw, processed, analyzed data, scripts, Jupyter notebooks, etc.).
+    1.	Inventory management, to register samples/extractions/simulations, materials, protocols, equipment.
+    2.	Laboratory notebook, to document scientific projects and experiments.
+    3.	Data management, to store all data related to the scientific projects and experiments (raw, processed, analyzed data, scripts, Jupyter notebooks, etc.).
 
-To represent a scientific study or project, openBIS uses the following meta data model entities: 
+To represent a scientific study or project, openBIS uses the following meta data model entities:
+
 •	Space: a folder (user/group/department/institution based) where  users can organize their projects, studies and corresponding experiments/collections, sample/objects and data sets;
 
 •	Project: a folder where users can organize their experiments/collections, samples/objects and data sets;   
