@@ -48,3 +48,11 @@ Contents
    usage
    api
    openbis_intro
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: GETTING STARTED:
+
+   GETTING STARTED/installation
+   GETTING STARTED/Quick Start
