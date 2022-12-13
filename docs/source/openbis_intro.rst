@@ -1,2 +1,2 @@
-openBIS general information
-===========================
+openBIS general information V2
+==============================
