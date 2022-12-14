@@ -135,7 +135,7 @@ Prior to the registration of the samples/objects, it is necessary to create corr
 For more details, see also https://openbis.ch/index.php/docs/admin-documentation/new-entity-type-registration/
 
 Let’s register the object type **PATIENT** with its properties.
- 
+
 •	Patient Unique Identifier > unique patient ID
 •	Unique center ID > medical center ID
 •	Date of birth > dd.mm.yy
@@ -143,3 +143,13 @@ Let’s register the object type **PATIENT** with its properties.
 •	Main disease > patient’s primary sickness
 •	Secondary disease > patient’s secondary sickness (primary sickness complications)
 •	Allergy 
+
+Steps:
+
+Log in to the openBIS admin UI
+https://openbis-biomed-demo.ethz.ch/openbis/webapp/openbis-ng-ui/
+
+**IMAGE #3**
+openBIS login page
+
+
