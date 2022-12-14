@@ -15,15 +15,15 @@ The openBIS platform has three primary functionalities:
 To represent a scientific study or project, openBIS uses the following meta data model entities:
 
 •	Space: a folder (user/group/department/institution based) where  users can organize their projects, studies and corresponding experiments/collections, sample/objects and data sets;
-
+    link How to register space
 •	Project: a folder where users can organize their experiments/collections, samples/objects and data sets;   
-
+    link How to register Project
 •	Experiment/Collection: a folder to store the information on experimental or theoretical investigations along with samples/objects and data sets.
-
+    link How to register Experiment/Collection
 •	Object/Sample: this is the basic entity. An object can be an Experimental Step, and Entry, a Protocol, any type of sample (e.g. bacterium, chemical, wood, plant, battery, etc) or any equipment.
-
+    link How to register Object
 •	Data Set is a folder where the result/s of the measurement/analysis/modeling of the experimental measurements or analysis are stored. Data sets can be attached to Experiments/Collections or Samples/Objects.
-
+    link How to register Data Set
 
 .. image:: /images/openbis-data-structure.png
 
