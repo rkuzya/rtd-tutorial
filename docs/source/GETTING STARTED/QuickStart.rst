@@ -114,7 +114,30 @@ DATA SET
 **Raw data** (under object Blood Plasma) > to store the FASTQ files of the sequenced bio samples of the particular patient.
 
 
-
-
 **How the Story was built**
 --------------------------
+
+Steps:
+1.	Register all Object Types (Level- Instance Admin)
+2.	Register all Spaces (Level – Instance Admin)
+3.	Register all Projects (Level – Space Admin/Group Admin and up)
+4.	Register all Collections (Level – Space User and up)
+5.	Register all Samples/Objects (Level – Space User and up)
+6.	Upload data set via Web UI (Level – Space User and up)
+
+
+Each step can be a clickable link with detailed descriptions.
+
+** Register all Object Types** (Level- Instance Admin)
+
+Prior to the registration of the samples/objects, it is necessary to create corresponding object types and properties.
+For more details, see also https://openbis.ch/index.php/docs/admin-documentation/new-entity-type-registration/
+
+Let’s register the object type **PATIENT** with its properties. 
+•	Patient Unique Identifier > unique patient ID
+•	Unique center ID > medical center ID
+•	Date of birth > dd.mm.yy
+•	Gender > male, female
+•	Main disease > patient’s primary sickness
+•	Secondary disease > patient’s secondary sickness (primary sickness complications)
+•	Allergy 
