@@ -49,7 +49,7 @@ Picture of the ELN menu that shows the Spaces/Projects/Collections
 
 Story representation via openBIS meta data model entities.
 
-**Spaces**  
+SPACES  
 
 **Clinical Info** to collect information on patients and visits.
 
@@ -62,7 +62,7 @@ Story representation via openBIS meta data model entities.
 **Publications** to collect information on publications related to the clinical projects run by a medical practitioner. This is present by default in all openBIS instances.
 
 
-**Projects**
+PROJECTS
 
 **Patient Info** (under space Clinical Info) > to collect general information on all patients visiting a medical practitioner.
 
@@ -77,27 +77,41 @@ Story representation via openBIS meta data model entities.
 **Protocols** (under space Methods) > to collect information on all protocols used to extract patients’ samples. This is present by default in all openBIS instances.
 
 
-Collections:
-Patients Information (under project Patient Info) > to collect general information on the patients. 
-Visits Information (under project Patient Info) > to collect information on the patients’ visits.
-Patient Samples (under project Patient Sample) > to collect information on the bio samples extracted from the patients.
-Patient Laboratory Tests (under project Patient Laboratory Tests) > to collect information on the patients’ laboratory tests.
-Plasma small RNA sequencing (under project Genomics NGS based) > to collect information on the patients’ bio samples submitted for the NGS sequencing.
-Publications Collection (under project Public Repositories) > stores information on the publications related to the research projects run by a medical practitioner published in Zenodo or the ETH Research Collection via openBIS. This is present by default in all openBIS instances.
-General Protocols (under project Protocols) > to collect information on the laboratory protocols used to extract patients’ samples. This is present by default in all openBIS instances.
+COLLECTIONS
 
-Objects / Samples:
-Patient (under collection Patients Information) > form to store information on a particular patient
-Patient Visit (under collection Visits Information) > form to store information on a particular visit of the particular patient.  
-Biosample (under collection Patient Samples) > form to store information on a particular bio sample extracted from the particular patient during a particular visit
-Clinical Test (under collection Patient Laboratory Tests) > form to store information on a particular, clinical test performed on a particular bio sample of the particular patient 
-General Protocol (under collection General Protocols) > form to store information on a particular protocol used to prepare a particular bio sample of the particular patient. This is present by default in all openBIS instances.
+**Patients Information** (under project Patient Info) > to collect general information on the patients. 
 
-Publication (under collection Publication Collection) > form to store information on papers/datasets published via openBIS to Zenodo or the Research Collection. This is present by default in all openBIS instances.
+**Visits Information** (under project Patient Info) > to collect information on the patients’ visits.
 
-Blood Plasma (under collection Plasma small RNA sequencing) > form to store information on a particular NGS sample prepared from the particular bio sample of the particular patient and submitted for NGS sequencing 
-Data Sets: 
-Raw data (under object Blood Plasma) > to store the FASTQ files of the sequenced bio samples of the particular patient.
+**Patient Samples** (under project Patient Sample) > to collect information on the bio samples extracted from the patients.
+
+**Patient Laboratory Tests** (under project Patient Laboratory Tests) > to collect information on the patients’ laboratory tests.
+
+**Plasma small RNA sequencing** (under project Genomics NGS based) > to collect information on the patients’ bio samples submitted for the NGS sequencing.
+
+**Publications Collection** (under project Public Repositories) > stores information on the publications related to the research projects run by a medical practitioner published in Zenodo or the ETH Research Collection via openBIS. This is present by default in all openBIS instances.
+
+**General Protocols** (under project Protocols) > to collect information on the laboratory protocols used to extract patients’ samples. This is present by default in all openBIS instances.
+
+OBJECTS/SAMPLES
+
+**Patient** (under collection Patients Information) > form to store information on a particular patient
+
+**Patient Visit** (under collection Visits Information) > form to store information on a particular visit of the particular patient.  
+
+**Biosample** (under collection Patient Samples) > form to store information on a particular bio sample extracted from the particular patient during a particular visit
+
+**Clinical Test** (under collection Patient Laboratory Tests) > form to store information on a particular, clinical test performed on a particular bio sample of the particular patient 
+
+**General Protocol** (under collection General Protocols) > form to store information on a particular protocol used to prepare a particular bio sample of the particular patient. This is present by default in all openBIS instances.
+
+**Publication** (under collection Publication Collection) > form to store information on papers/datasets published via openBIS to Zenodo or the Research Collection. This is present by default in all openBIS instances.
+
+**Blood Plasma** (under collection Plasma small RNA sequencing) > form to store information on a particular NGS sample prepared from the particular bio sample of the particular patient and submitted for NGS sequencing 
+
+DATA SET
+
+**Raw data** (under object Blood Plasma) > to store the FASTQ files of the sequenced bio samples of the particular patient.
 
 
 
