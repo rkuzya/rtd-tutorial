@@ -51,19 +51,30 @@ Story representation via openBIS meta data model entities.
 
 **Spaces**  
 
-**Clinical Info** > to collect information on patients and visits.
-**Research Project** > to collect information on clinical research projects run by a medical practitioner.
-**Materials** > to collect information on biological samples extracted from the patients and clinical tests performed. This is present by default in all openBIS instances.
-**Methods** > to collect information on laboratory protocols used during sample extraction and preparation. This is present by default in all openBIS instances.
-Publications > to collect information on publications related to the clinical projects run by a medical practitioner. This is present by default in all openBIS instances.
+**Clinical Info** to collect information on patients and visits.
 
-Projects:
-Patient Info (under space Clinical Info) > to collect general information on all patients visiting a medical practitioner.
-Patient Visits (under space Clinical Info) > to collect general information on all visits.
-Genomics NGS based (under space Research Project) > to collect information on all samples undergoing NGS sequencing as a part of the research project run by a medical practitioner.
-Patient Laboratory Tests (under space Materials) > to collect information on all samples submitted for laboratory analysis (general blood test).
-Patient Samples (under space Materials) > to collect information on all bio samples (blood) extracted from the patients.
-Protocols (under space Methods) > to collect information on all protocols used to extract patients’ samples. This is present by default in all openBIS instances.
+**Research Project** to collect information on clinical research projects run by a medical practitioner.
+
+**Materials** to collect information on biological samples extracted from the patients and clinical tests performed. This is present by default in all openBIS instances.
+
+**Methods** to collect information on laboratory protocols used during sample extraction and preparation. This is present by default in all openBIS instances.
+
+**Publications** to collect information on publications related to the clinical projects run by a medical practitioner. This is present by default in all openBIS instances.
+
+
+**Projects**
+
+**Patient Info** (under space Clinical Info) > to collect general information on all patients visiting a medical practitioner.
+
+**Patient Visits** (under space Clinical Info) > to collect general information on all visits.
+
+**Genomics NGS based** (under space Research Project) > to collect information on all samples undergoing NGS sequencing as a part of the research project run by a medical practitioner.
+
+**Patient Laboratory Tests** (under space Materials) > to collect information on all samples submitted for laboratory analysis (general blood test).
+
+**Patient Samples** (under space Materials) > to collect information on all bio samples (blood) extracted from the patients.
+
+**Protocols** (under space Methods) > to collect information on all protocols used to extract patients’ samples. This is present by default in all openBIS instances.
 
 
 Collections:
@@ -87,7 +98,6 @@ Publication (under collection Publication Collection) > form to store informatio
 Blood Plasma (under collection Plasma small RNA sequencing) > form to store information on a particular NGS sample prepared from the particular bio sample of the particular patient and submitted for NGS sequencing 
 Data Sets: 
 Raw data (under object Blood Plasma) > to store the FASTQ files of the sequenced bio samples of the particular patient.
-
 
 
 
