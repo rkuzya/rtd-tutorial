@@ -40,7 +40,11 @@ The laboratory performs the analysis and submits the results back to the clinic.
 Thus, the medical practitioner submits the blood sample to his research lab where it undergoes NGS sequencing.
 The output files (FASTQ) are sent to the research lab for further analysis. 
 
+**IMAGE #1**
+Picture > general schema & openBIS entities schema
 
+**IMAGE #2**
+Picture of the ELN menu that shows the Spaces/Projects/Collections 
 
 
 
