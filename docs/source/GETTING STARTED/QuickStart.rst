@@ -14,15 +14,15 @@ The openBIS platform has three primary functionalities:
 
 To represent a scientific study or project, openBIS uses the following meta data model entities:
 
-•	Space: a folder (user/group/department/institution based) where  users can organize their projects, studies and corresponding experiments/collections, sample/objects and data sets;
+•	**Space**: a folder (user/group/department/institution based) where  users can organize their projects, studies and corresponding experiments/collections, sample/objects and data sets;
     link How to register space
-•	Project: a folder where users can organize their experiments/collections, samples/objects and data sets;   
+•	**Project**: a folder where users can organize their experiments/collections, samples/objects and data sets;   
     link How to register Project
-•	Experiment/Collection: a folder to store the information on experimental or theoretical investigations along with samples/objects and data sets.
+•	**Experiment/Collection**: a folder to store the information on experimental or theoretical investigations along with samples/objects and data sets.
     link How to register Experiment/Collection
-•	Object/Sample: this is the basic entity. An object can be an Experimental Step, and Entry, a Protocol, any type of sample (e.g. bacterium, chemical, wood, plant, battery, etc) or any equipment.
+•	**Object/Sample**: this is the basic entity. An object can be an Experimental Step, and Entry, a Protocol, any type of sample (e.g. bacterium, chemical, wood, plant, battery, etc) or any equipment.
     link How to register Object
-•	Data Set is a folder where the result/s of the measurement/analysis/modeling of the experimental measurements or analysis are stored. Data sets can be attached to Experiments/Collections or Samples/Objects.
+•	**Data Set** is a folder where the result/s of the measurement/analysis/modeling of the experimental measurements or analysis are stored. Data sets can be attached to Experiments/Collections or Samples/Objects.
     link How to register Data Set
 
 .. image:: /images/openbis-data-structure.png
@@ -33,6 +33,7 @@ Use Cases - Stories
 BIOMED / CLINICAL STORY
 
 Case explanation
+
 A sick patient visits a doctor at the clinic. After collecting certain information on the patient (age, date of birth, secondary diseases and allergies) and the symptoms, the doctor does the general physical checkup, decides on a diagnose, and prescribes the treatment.
 To exclude potential complications, the doctor takes a blood sample (following a certain protocol) for the clinical blood test analysis.
 The laboratory performs the analysis and submits the results back to the clinic. Additionally, the doctor finds this case interesting and suitable for his medical research project related to the sequencing of the micro RNAs in the blood.
