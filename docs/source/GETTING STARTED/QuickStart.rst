@@ -30,6 +30,14 @@ To represent a scientific study or project, openBIS uses the following meta data
 
 Use Cases - Stories
 -------------------
+BIOMED / CLINICAL STORY
+
+Case explanation
+A sick patient visits a doctor at the clinic. After collecting certain information on the patient (age, date of birth, secondary diseases and allergies) and the symptoms, the doctor does the general physical checkup, decides on a diagnose, and prescribes the treatment.
+To exclude potential complications, the doctor takes a blood sample (following a certain protocol) for the clinical blood test analysis.
+The laboratory performs the analysis and submits the results back to the clinic. Additionally, the doctor finds this case interesting and suitable for his medical research project related to the sequencing of the micro RNAs in the blood.
+Thus, the medical practitioner submits the blood sample to his research lab where it undergoes NGS sequencing.
+The output files (FASTQ) are sent to the research lab for further analysis. 
 
 
 
