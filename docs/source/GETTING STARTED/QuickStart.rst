@@ -59,7 +59,8 @@ model entities such as:
    Data sets might have a **file type**, which represents the format
    used to store the data.
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/openbis-data-structure.png
+.. image:: /images/openbis-data-structure.png
+
 
 
 Current examples of the openBIS usage and its basic functionality have
