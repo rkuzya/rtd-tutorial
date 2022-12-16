@@ -88,8 +88,6 @@ his research lab where it undergoes NGS sequenced. The output files
 (FASTQ) of the sequencing are sent to the research lab for further
 analysis.
 
-Picture > general schema & openBIS entities schema
-
 .. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image2.png
 
 .. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image3.png
