@@ -62,65 +62,15 @@ model entities such as:
 .. image:: /images/openbis-data-structure.png
 
 
+**Use Cases - Stories**
+----------------------
 
 Current examples of the openBIS usage and its basic functionality have
-been represented via 3 hypothetical stories. The stories cover 3
+been represented via 2 hypothetical stories. The stories cover 2
 scientific domains: biological, biomedical/clinical and material.
 
-**3 STORIES**
 
-**BIOLOGICAL STORY**
-
-Case explanation
-
-We constructed an ER-based heterologous transcription factor that does
-not show toxic effects, operates predictably in different growth
-conditions and allows the precise regulation of the expression of the
-target gene to low, intermediate or high levels. While most engineering
-efforts for heterologous transcription factors focus on the DNA-binding
-domain, we emphasize that the selection of the AD is important for
-system performance by combining experimental analysis and mechanistic
-mathematical modeling. Specifically, the appropriate choice of the AD is
-essential to prevent toxic phenotypes and to reach the desired
-expression levels. By using the bacterial DNA-binding protein LexA, we
-ensured that our system does not depend on yeast metabolism and
-therefore we could induce it in different growth conditions. Finally, we
-could finely modulate the output by multiplying the LexA-binding sites
-in the synthetic target promoter without changing the basal activity.
-Overall, our LexA-ER-AD system overcomes the limitations of the previous
-systems, it displays the essential features needed to precisely control
-gene expression in multiple experimental setups in yeast, and it
-illustrates principles of modular construction of heterologous
-transcription factors.
-
-**TO COMPLEX AS FOR THE QUICK START < CAN BE SIMPLIFIED WITH ANOTHER
-STORY <<<**
-
-4 samples which undergo MS/MS experiment.
-
-4 data sets to be uploaded.
-
-To be discussed with Caterina.
-
-Read the paper in the openbis.ch
-
-Picture > general schema & openBIS entities schema
-
-openBIS meta data entities used the case
-
-Spaces >
-
-Projects >
-
-Collections >
-
-Samples >
-
-Data Sets >
-
-**CLICK > HOW THE STORY WAS BUILT <**
-
-**BIOMED / CLINICAL STORY**
+BIOMED / CLINICAL STORY
 
 Case explanation
 
@@ -228,7 +178,9 @@ submitted for NGS sequencing
 **Dataset** > to store the FASTQ files of the sequenced particular bio
 samples of the particular patients
 
-**CLICK > HOW THE STORY WAS BUILT <**
+
+**How the Story was built**
+--------------------------
 
 Steps:
 
