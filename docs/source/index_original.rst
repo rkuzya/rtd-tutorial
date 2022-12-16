@@ -44,6 +44,13 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+
+   usage
+   api
+   openbis_intro
+
+.. toctree::
+   :maxdepth: 2
    :hidden:
    :caption: GETTING STARTED
 
