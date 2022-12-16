@@ -152,4 +152,7 @@ https://openbis-biomed-demo.ethz.ch/openbis/webapp/openbis-ng-ui/
 **IMAGE #3**
 openBIS login page
 
+Click on the Object Type (to add an arrow)
 
+**IMAGE #4**
+object type view
