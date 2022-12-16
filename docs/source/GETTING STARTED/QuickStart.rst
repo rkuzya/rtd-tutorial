@@ -90,7 +90,9 @@ analysis.
 
 Picture > general schema & openBIS entities schema
 
-|Diagram Description automatically generated|\ |image1|
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image2.png
+
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image3.png
 
 Story representation via openBIS meta data entities
 
