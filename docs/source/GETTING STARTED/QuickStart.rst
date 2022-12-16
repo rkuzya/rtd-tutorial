@@ -274,16 +274,16 @@ Log in to the openBIS admin UI
 
 https://openbis-biomed-demo.ethz.ch/openbis/webapp/openbis-ng-ui/
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image4.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image4.png
 
 
 Click on the Object Type (to add an arrow)
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image5.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image5.png
 
 Click on a blue ADD button (to add an arrow)
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image6.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image6.png
 
 In the new windows, in the section New Object Type provide the following
 information (see the picture below).
@@ -294,7 +294,7 @@ Description: Patient’s general information
 
 Generated code prefix: PAT
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image7.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image7.png
 
 
 Click on the **ADD SECTION** Button to create a section for the
@@ -302,7 +302,7 @@ properties.
 
 Name the section **General Information**.
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image8.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image8.png
 
 
 Click on the blue triangle then on the **ADD PROPERTY** button.
@@ -310,7 +310,7 @@ Click on the blue triangle then on the **ADD PROPERTY** button.
 In the section Property add the following info for the property: Unique
 patient ID (see the picture below)
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image9.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image9.png
 
 Code: PATIENT_ID
 
@@ -322,7 +322,7 @@ Description: unique ID of the patient
 
 TO ADD ANOTHER PROPERTY, CLICK on **ADD PROPERTY** button.
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image10.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image10.png
 
 
 In the section Property add the following info for the property: Unique
@@ -336,7 +336,7 @@ Label: Unique center ID
 
 Description: Unique Center ID
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image11.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image11.png
 
 Click on the SAVE button to save the edits.
 
@@ -441,7 +441,7 @@ Description: Information on patients and patients’ visits.
 
 Click on Save button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image12.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image12.png
 
 Repeat the same process to register a space **Research Projects** in the
 section Lab Notebook/Others to represent information on clinical
@@ -474,7 +474,7 @@ Description: Project to represent information on patients.
 
 Click on Save button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image13.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image13.png
 
 
 **Repeat the same process to register the following projects:**
@@ -537,7 +537,7 @@ Click on **+ New** button
 
 Choose **Collection**
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image14.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image14.png
 
 
 In the window: Create Collection type the following
@@ -552,7 +552,7 @@ Default collection view: Form view
 
 Click on Save button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image15.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image15.png
 
 
 **Repeat the same process to register the following collections:**
@@ -638,7 +638,7 @@ Click on the Patients information collection
 
 Click on **+ New Patient** button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image16.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image16.png
 
 
 In the window: New Patient type the following
@@ -661,7 +661,7 @@ Allergy: pollen, animal dander
 
 Click on Save button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image17.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image17.png
 
 
 Let’s register another object PATIENT VISIT in the collection **Visits
@@ -671,7 +671,7 @@ Click on the **Visits information** collection
 
 Click on **+ New Patient Visit** button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image18.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image18.png
 
 
 In the window: New Patient Visit type the following
@@ -702,7 +702,7 @@ Treatment: Nitrofurantoin 1 t/day 7 days
 
 Click on Save button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image19.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image19.png
 
 **Repeat the same process to register the following objects:**
 
@@ -769,22 +769,19 @@ In the text field, you can paste the following information:
 Object: Blood Plasma
 
 Location: collection Plasma small RNA Sequencing, project Genomics Ngs Based, space Research Projects, Lab Notebook
-===================================================================================================================
 
 Patient Unique identifier: 0001
-===============================
 
 Name: 0001_1205_001
-===================
 
 Supplier: BioMed Sample Laboratory
-==================================
 
-**LINKING OBJECTS VIA PARENT-CHILD RELANTIONSHIPS**
+
+LINKING OBJECTS VIA PARENT-CHILD RELANTIONSHIPS
 
 Let’s link the newly created objects via the parent-child relationships.
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image20.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image20.png
 
 
 The object PAT1 (patient) in the collection Patients information will be
@@ -797,25 +794,25 @@ Click on the object PAN_VISIT1
 
 Click on Edit Button in the PAN_VISIT1 view mode
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image21.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image21.png
 
 
 Scroll down to the section **Parents** and click on **Search Any**
 button
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image22.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image22.png
 
 
 Choose the **Patient** object type in the scroll down menu
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image23.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image23.png
 
 
 Type PAT1 in the text field underneath the Search Any button
 
 Choose the PAT1 object in the dropdown menu.
 
-.. image:: vertopal_7815620a208e47a0995d07a240c3174d/media/image24.png
+.. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image24.png
 
 
 Click on +Add
