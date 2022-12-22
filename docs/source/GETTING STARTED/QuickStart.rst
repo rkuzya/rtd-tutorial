@@ -101,9 +101,6 @@ Space             Description
 ================= =====================================================================================================
 Clinical info     represents information on patients and a patients visits
 Research Project  represents information on clinical research projects run by a medical practitioner
-Materials         represents information on biological samples extracted from the patients and clinical tests performed
-Methods           represents information on laboratory protocols
-Publications      represents information on publications related to the clinical projects
 ========================================================================================================================
 
 
