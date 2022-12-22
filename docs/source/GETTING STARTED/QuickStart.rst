@@ -119,6 +119,16 @@ Publications      represents information on publications related to the clinical
 
 **PROJECTS:**
 
+=================        ==================================================================================================
+Project                  Description
+=================        ==================================================================================================
+Patient Info             stores general information on all patients
+Patient Visit            stores general information on all patients' visit
+Genomics NGS based       stores information on all patients' samples undergoing NGS sequencing.
+Patient Laboratory Tests stores information on all patients' samples submitted for laboratory analysis (general blood test)
+Patient Sample           stores information on all bio samples (blood) extracted from the patients
+Protocols                store information on all protocols used to extract patients' samples
+======================== ==================================================================================================
 
 
 **Patient Info** > stores general information on all patients
