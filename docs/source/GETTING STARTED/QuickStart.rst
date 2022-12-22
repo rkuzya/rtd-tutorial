@@ -1,7 +1,7 @@
 Quick Start
 ===========
 
-**Intro**
+**INTRO**
 ----------
 
 INTRO: GENERAL INFORMATION ON THE OPENBIS
@@ -62,7 +62,7 @@ model entities such as:
 .. image:: /images/openbis-data-structure.png
 
 
-**Use Cases - Stories**
+**USE CASES - STORIES**
 ----------------------
 
 Current examples of the openBIS usage and its basic functionality have
