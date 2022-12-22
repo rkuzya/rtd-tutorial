@@ -92,7 +92,7 @@ analysis.
 
 .. image:: /vertopal_7815620a208e47a0995d07a240c3174d/media/image3.png
 
-Story representation via openBIS meta data entities
+Story representation via openBIS meta data entities PICTURE TO BE ADDED!!!
 
 **SPACES**
 
@@ -106,17 +106,6 @@ Methods           represents information on laboratory protocols
 Publications      represents information on publications related to the clinical projects
 ================= =====================================================================================================
 
-
-**Clinical Info** - to represent information on patients and a patients' visits.
-
-**Research Project** - to represent information on clinical research projects run by a medical practitioner.
-
-**Materials** - to represent information on biological samples extracted from the patients and clinical tests performed.
-
-**Methods** - to represent information on laboratory protocols
-
-**Publications** - to represent information on publications related to the clinical projects
-
 **PROJECTS**
 
 ======================== ==================================================================================================
@@ -129,23 +118,6 @@ Patient Laboratory Tests stores information on all patients' samples submitted f
 Patient Sample           stores information on all bio samples (blood) extracted from the patients
 Protocols                store information on all protocols used to extract patients' samples
 ======================== ==================================================================================================
-
-
-**Patient Info** > stores general information on all patients
-
-**Patient Visit** > stores general information on all patient’s visit
-
-**Genomics NGS based** > stores information on all patients’ samples
-undergoing NGS sequencing.
-
-**Patient Laboratory Tests** > stores information on all patients’
-samples submitted for laboratory analysis (general blood test)
-
-**Patient Sample** > stores information on all bio samples (blood)
-extracted from the patients
-
-**Protocols** > store information on all protocols used to extract
-patients’ samples
 
 **COLLECTIONS**
 
