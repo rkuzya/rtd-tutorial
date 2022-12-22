@@ -99,7 +99,7 @@ Story representation via openBIS meta data entities
 ================= =====================================================================================================
 Space             Description
 ================= =====================================================================================================
-Clinical info     represents information on patients and a patients visits
+Clinical info     represents information on patients and their medical visits
 Research Project  represents information on clinical research projects run by a medical practitioner
 Materials         represents information on biological samples extracted from the patients and clinical tests performed
 Methods           represents information on laboratory protocols
