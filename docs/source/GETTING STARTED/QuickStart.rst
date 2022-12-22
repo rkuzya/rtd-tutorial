@@ -2,7 +2,7 @@ Quick Start
 ===========
 
 **INTRO**
-----------
+---------
 
 INTRO: GENERAL INFORMATION ON THE OPENBIS
 
@@ -63,7 +63,7 @@ model entities such as:
 
 
 **USE CASES - STORIES**
-----------------------
+-----------------------
 
 Current examples of the openBIS usage and its basic functionality have
 been represented via 2 hypothetical stories. The stories cover 2
