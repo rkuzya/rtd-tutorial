@@ -101,7 +101,7 @@ Space             Description
 ================= ====================================================================================
 Clinical info     to represent information on patients and a patients visits
 Research Project  to represent information on clinical research projects run by a medical practitioner
-======================================================================================================
+================= ====================================================================================
 
 
 **Clinical Info** - to represent information on patients and a patients’
