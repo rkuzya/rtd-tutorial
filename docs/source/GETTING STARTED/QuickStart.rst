@@ -119,9 +119,9 @@ Publications      represents information on publications related to the clinical
 
 **PROJECTS:**
 
-=================        ==================================================================================================
+======================== ==================================================================================================
 Project                  Description
-=================        ==================================================================================================
+======================== ==================================================================================================
 Patient Info             stores general information on all patients
 Patient Visit            stores general information on all patients' visit
 Genomics NGS based       stores information on all patients' samples undergoing NGS sequencing.
