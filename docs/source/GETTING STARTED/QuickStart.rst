@@ -107,21 +107,20 @@ Publications      represents information on publications related to the clinical
 ================= ======================================================================================================
 
 
-**Clinical Info** - to represent information on patients and a patients’
-visits.
 
-**Research Project** - to represent information on clinical research
-projects run by a medical practitioner.
+**Clinical Info** - to represent information on patients and a patients’ visits.
 
-**Materials** - to represent information on biological samples extracted
-from the patients and clinical tests performed.
+**Research Project** - to represent information on clinical research projects run by a medical practitioner.
+
+**Materials** - to represent information on biological samples extracted from the patients and clinical tests performed.
 
 **Methods** - to represent information on laboratory protocols
 
-**Publications** - to represent information on publications related to
-the clinical projects
+**Publications** - to represent information on publications related to the clinical projects
 
 **PROJECTS:**
+
+
 
 **Patient Info** > stores general information on all patients
 
