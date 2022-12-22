@@ -94,7 +94,7 @@ analysis.
 
 Story representation via openBIS meta data entities
 
-**SPACES:**
+**SPACES**
 
 ================= =====================================================================================================
 Space             Description
@@ -107,7 +107,7 @@ Publications      represents information on publications related to the clinical
 ================= =====================================================================================================
 
 
-**Clinical Info** - to represent information on patients and a patients’ visits.
+**Clinical Info** - to represent information on patients and a patients' visits.
 
 **Research Project** - to represent information on clinical research projects run by a medical practitioner.
 
@@ -117,7 +117,7 @@ Publications      represents information on publications related to the clinical
 
 **Publications** - to represent information on publications related to the clinical projects
 
-**PROJECTS:**
+**PROJECTS**
 
 ======================== ==================================================================================================
 Project                  Description
@@ -147,27 +147,26 @@ extracted from the patients
 **Protocols** > store information on all protocols used to extract
 patients’ samples
 
-**COLLECTIONS:**
+**COLLECTIONS**
 
-**Patients Information** > stores general information on the patients
-
-**Visits Information** > stores information in the patients’ visits to
-the doctor
-
-**Patient Samples** > stores information on the bio samples extracted
-from the patients
-
-**Patient Laboratory Test** > stores information on the patients’
-laboratory tests run on patients’ bio samples taken by the doctor
-
-**Plasma small RNA sequencing** > stores information on the patients’
-bio samples submitted for sequencing
-
-**Publications Collection** > stores information on the publications
-related to the research projects run by the doctor
-
-**General Protocols** > stores information on the laboratory protocols
-used to extract patients’ bio samples
+=========================== =====================================================================================================
+Collections                 Description
+=========================== =====================================================================================================
+Patients Information        stores general information on the patients
+Visits Information          stores information in the patients' visits to the doctor
+Patient Samples             stores information on the bio samples extracted from the patients
+Patient Laboratory Test     stores information on the patients' laboratory tests run on patients' bio samples taken by the doctor
+Plasma small RNA sequencing stores information on the patients' bio samples submitted for sequencing
+Publications Collection     stores information on the publications related to the research projects run by the doctor
+General Protocols           stores information on the laboratory protocols used to extract patients bio samples
+Patients Information        stores general information on the patients
+Visits Information          stores information in the patients' visits to the doctor
+Patient Samples             stores information on the bio samples extracted from the patients
+Patient Laboratory Test     stores information on the patients' laboratory tests run on patients' bio samples taken by the doctor
+Plasma small RNA sequencing stores information on the patients' bio samples submitted for sequencing
+Publications Collection     stores information on the publications related to the research projects run by the doctor
+General Protocols           stores information on the laboratory protocols used to extract patients' bio samples
+=========================== =====================================================================================================
 
 **OBJECTS / SAMPLES**:
 
