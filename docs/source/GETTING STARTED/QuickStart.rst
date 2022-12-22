@@ -96,18 +96,26 @@ Story representation via openBIS meta data entities
 
 **SPACES:**
 
-**Clinical Info** > to represent information on patients and a patients’
+================= ====================================================================================
+Space             Description
+================= ====================================================================================
+Clinical info     to represent information on patients and a patients visits
+Research Project  to represent information on clinical research projects run by a medical practitioner
+======================================================================================================
+
+
+**Clinical Info** - to represent information on patients and a patients’
 visits.
 
-**Research Project** > to represent information on clinical research
+**Research Project** - to represent information on clinical research
 projects run by a medical practitioner.
 
-**Materials** > to represent information on biological samples extracted
+**Materials** - to represent information on biological samples extracted
 from the patients and clinical tests performed.
 
-**Methods** > to represent information on laboratory protocols
+**Methods** - to represent information on laboratory protocols
 
-**Publications** > to represent information on publications related to
+**Publications** - to represent information on publications related to
 the clinical projects
 
 **PROJECTS:**
