@@ -183,35 +183,17 @@ Blood Plasma      stores information on a particular NGS sample prepared from th
 ================= ================================================================================================================
 
 
-**Patient** > stores information on a particular patient
+**DATA SET**
 
-**Patient Visit** > stores information on a particular visit of the
-particular patient
-
-**Biosample** > stores information on a particular bio sample extracted
-from the particular patient during a particular visit
-
-**Clinical Test** > stores information on a particular, clinical test
-performed on a particular bio sample of the particular patient
-
-**General Protocol** > stores information on a particular protocol used
-to prepare a particular bio sample of the particular patient
-
-**Publication** > stores information on a particular paper used in the
-research projects run by the doctor
-
-**Blood Plasma** > stores information on a particular NGS sample
-prepared from the particular bio sample of the particular patient and
-submitted for NGS sequencing
-
-**DATA SET**:
-
-**Dataset** > to store the FASTQ files of the sequenced particular bio
-samples of the particular patients
+======== =========================================================================================
+Data Set Description
+======== =========================================================================================
+Dataset  stores the FASTQ files of the sequenced particular bio samples of the particular patients
+======== =========================================================================================
 
 
-**How the Story was built**
---------------------------
+**HOW THE STORY WAS BUILT**
+---------------------------
 
 Steps:
 
