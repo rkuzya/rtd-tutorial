@@ -94,7 +94,7 @@ analysis.
 
 Story representation via openBIS meta data entities
 
-**Spaces:**
+**SPACES:**
 
 **Clinical Info** > to represent information on patients and a patients’
 visits.
@@ -110,7 +110,7 @@ from the patients and clinical tests performed.
 **Publications** > to represent information on publications related to
 the clinical projects
 
-**Projects:**
+**PROJECTS:**
 
 **Patient Info** > stores general information on all patients
 
@@ -128,7 +128,7 @@ extracted from the patients
 **Protocols** > store information on all protocols used to extract
 patients’ samples
 
-**Collections:**
+**COLLECTIONS:**
 
 **Patients Information** > stores general information on the patients
 
@@ -150,7 +150,7 @@ related to the research projects run by the doctor
 **General Protocols** > stores information on the laboratory protocols
 used to extract patients’ bio samples
 
-**Object / Samples**:
+**OBJECTS / SAMPLES**:
 
 **Patient** > stores information on a particular patient
 
@@ -173,7 +173,7 @@ research projects run by the doctor
 prepared from the particular bio sample of the particular patient and
 submitted for NGS sequencing
 
-**Data Sets**:
+**DATA SET**:
 
 **Dataset** > to store the FASTQ files of the sequenced particular bio
 samples of the particular patients
