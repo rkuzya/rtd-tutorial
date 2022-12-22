@@ -168,7 +168,20 @@ Publications Collection     stores information on the publications related to th
 General Protocols           stores information on the laboratory protocols used to extract patients' bio samples
 =========================== =====================================================================================================
 
-**OBJECTS / SAMPLES**:
+**OBJECTS / SAMPLES**
+
+================= ================================================================================================================
+Objects/Samples   Description
+================= ================================================================================================================
+Patient           stores information on a particular patient
+Patient Visit     stores information on a particular visit of the particular patient
+Biosample         stores information on a particular bio sample extracted from the particular patient during a particular visit
+Clinical Test     stores information on a particular, clinical test performed on a particular bio sample of the particular patient
+General Protocol  stores information on a particular protocol used to prepare a particular bio sample of the particular patient
+Publication       stores information on a particular paper used in the research projects run by the doctor
+Blood Plasma      stores information on a particular NGS sample prepared from the particular bio sample
+================= ================================================================================================================
+
 
 **Patient** > stores information on a particular patient
 
