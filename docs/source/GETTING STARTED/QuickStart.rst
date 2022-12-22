@@ -104,8 +104,7 @@ Research Project  represents information on clinical research projects run by a 
 Materials         represents information on biological samples extracted from the patients and clinical tests performed
 Methods           represents information on laboratory protocols
 Publications      represents information on publications related to the clinical projects
-================= ======================================================================================================
-
+========================================================================================================================
 
 
 **Clinical Info** - to represent information on patients and a patients’ visits.
