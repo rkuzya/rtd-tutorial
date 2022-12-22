@@ -2,7 +2,7 @@ Quick Start
 ===========
 
 **Intro**
----------
+----------
 
 INTRO: GENERAL INFORMATION ON THE OPENBIS
 
